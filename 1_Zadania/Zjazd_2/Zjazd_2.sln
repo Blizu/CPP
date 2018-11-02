@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{B58772A8-F11C-4585-B13E-82C7680658B3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadanie_3", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{B58772A8-F11C-4585-B13E-82C7680658B3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{B3CC8D81-E35C-40AA-B14F-C1A3FF695D4E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadanie_4", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{B3CC8D81-E35C-40AA-B14F-C1A3FF695D4E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadanie_1", "Zadanie_1\Zadanie_1.vcxproj", "{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{B3CC8D81-E35C-40AA-B14F-C1A3FF695D4E}.Release|x64.Build.0 = Release|x64
 		{B3CC8D81-E35C-40AA-B14F-C1A3FF695D4E}.Release|x86.ActiveCfg = Release|Win32
 		{B3CC8D81-E35C-40AA-B14F-C1A3FF695D4E}.Release|x86.Build.0 = Release|Win32
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Debug|x64.ActiveCfg = Debug|x64
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Debug|x64.Build.0 = Debug|x64
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Debug|x86.ActiveCfg = Debug|Win32
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Debug|x86.Build.0 = Debug|Win32
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Release|x64.ActiveCfg = Release|x64
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Release|x64.Build.0 = Release|x64
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Release|x86.ActiveCfg = Release|Win32
+		{0BC4D368-439D-47E8-A9F2-4E4E07FFFAA3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
